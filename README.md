@@ -1,2 +1,2 @@
-# 52MIRI
+# MIRI
 Miri I love you
